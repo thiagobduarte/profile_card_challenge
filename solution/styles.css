@@ -1,5 +1,7 @@
 body {
     background-color:hsl(185, 75%, 39%) ;
     max-width: 1440px ;
+    position: relative;
     min-width: 375px ;
+    height: 720px ;
 }
